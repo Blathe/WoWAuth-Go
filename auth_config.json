@@ -1,9 +1,0 @@
-{
-    "dev": true,
-    "configLoadedMessage":"Auth Config Loaded",
-    "dbAddr": "127.0.0.1",
-    "dbPort": ":3306",
-    "serverAddr": "127.0.0.1",
-    "serverPort": ":5476",
-    "maxConnections": 500
-}

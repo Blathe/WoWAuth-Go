@@ -1,0 +1,8 @@
+{
+    "dev": true,
+    "configLoadedMessage": "Auth Config Loaded",
+    "dbConnectionString": "<user>:<pass>@/realmd",
+    "serverAddr": "127.0.0.1",
+    "serverPort": ":3724",
+    "maxConnections": 500
+}
